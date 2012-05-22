@@ -1,0 +1,8 @@
+name = HumanitarianResponse Maps Data
+description = Terms for the map types taxonomy
+core = 7.x
+package = Humanitarianresponse data
+dependencies[] = humanitarianresponse_maps
+dependencies[] = uuid
+features[features_api][] = api:1
+features[uuid_entities][] = map_types
