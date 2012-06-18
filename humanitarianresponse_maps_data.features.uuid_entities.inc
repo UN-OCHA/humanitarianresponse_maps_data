@@ -245,6 +245,100 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     'vocabulary_machine_name' => 'map_types',
     'weight' => '0',
   );
+  $entities['map_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/366de738-bd2f-9334-61a7-b53c8ae2f736',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
+    'name' => 'Dashboard',
+    'path' => array(
+      'alias' => 'map-types/dashboard',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => '366de738-bd2f-9334-61a7-b53c8ae2f736',
+    'vocabulary_machine_name' => 'map_types',
+    'weight' => '0',
+  );
+  $entities['map_types'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/6c4a6cc4-b9de-ac94-21bf-ce7b500fae53',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
+    'name' => 'Funding Graphic',
+    'path' => array(
+      'alias' => 'map-types/funding-graphic',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'uuid' => '6c4a6cc4-b9de-ac94-21bf-ce7b500fae53',
+    'vocabulary_machine_name' => 'map_types',
+    'weight' => '0',
+  );
 
   return $entities;
 }
