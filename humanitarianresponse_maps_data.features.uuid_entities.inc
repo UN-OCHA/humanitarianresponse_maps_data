@@ -18,6 +18,8 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Thematic',
     'path' => array(
       'alias' => 'map-types/thematic',
@@ -63,6 +65,8 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Reference',
     'path' => array(
       'alias' => 'map-types/reference',
@@ -108,6 +112,8 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Snapshot',
     'path' => array(
       'alias' => 'map-types/snapshot',
@@ -153,6 +159,8 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Humanitarian Update',
     'path' => array(
       'alias' => 'map-types/humanitarian-update',
@@ -198,6 +206,8 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => '3W',
     'path' => array(
       'alias' => 'map-types/3w',
