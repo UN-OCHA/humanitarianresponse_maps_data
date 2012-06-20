@@ -17,10 +17,27 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Thematic',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Thematic',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'map-types/thematic',
       'pathauto' => FALSE,
@@ -64,10 +81,27 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Reference',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Reference',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'map-types/reference',
       'pathauto' => FALSE,
@@ -111,10 +145,27 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Snapshot',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Snapshot',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'map-types/snapshot',
       'pathauto' => FALSE,
@@ -158,10 +209,27 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Humanitarian Update',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Humanitarian Update',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'map-types/humanitarian-update',
       'pathauto' => FALSE,
@@ -205,10 +273,27 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => '3W',
+    'name_field' => array(
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => '3W',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'map-types/3w',
       'pathauto' => FALSE,
@@ -252,10 +337,27 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Dashboard',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Dashboard',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'map-types/dashboard',
       'pathauto' => FALSE,
@@ -299,10 +401,27 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Funding Graphic',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Funding Graphic',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'map-types/funding-graphic',
       'pathauto' => FALSE,
