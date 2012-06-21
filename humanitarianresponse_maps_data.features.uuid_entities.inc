@@ -223,7 +223,7 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     'language' => 'und',
     'name' => 'Humanitarian Update',
     'name_field' => array(
-      'en' => array(
+      'und' => array(
         0 => array(
           'format' => NULL,
           'value' => 'Humanitarian Update',
@@ -274,7 +274,7 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     ),
     'description' => '',
     'description_field' => array(
-      'en' => array(
+      'und' => array(
         0 => array(
           'format' => 'plain_text',
           'summary' => NULL,
@@ -287,7 +287,7 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     'language' => 'und',
     'name' => '3W',
     'name_field' => array(
-      'en' => array(
+      'und' => array(
         0 => array(
           'format' => NULL,
           'value' => '3W',
