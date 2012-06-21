@@ -36,6 +36,18 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'value' => 'Thematic',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Thematic',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Thématique',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'map-types/thematic',
@@ -97,6 +109,18 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Reference',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Reference',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Référence',
         ),
       ),
     ),
@@ -162,6 +186,18 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'value' => 'Snapshot',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Snapshot',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Instantané',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'map-types/snapshot',
@@ -225,6 +261,18 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'value' => 'Humanitarian Update',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Humanitarian Update',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Actualisation Humanitaire',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'map-types/humanitarian-update',
@@ -283,6 +331,18 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
     'name' => '3W',
     'name_field' => array(
       'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => '3W',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => '3W',
+        ),
+      ),
+      'fr' => array(
         0 => array(
           'format' => NULL,
           'value' => '3W',
@@ -351,6 +411,18 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'value' => 'Dashboard',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Dashboard',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tableau de Bord',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'map-types/dashboard',
@@ -412,6 +484,18 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Funding Graphic',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Funding Graphic',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Graphique de Financement',
         ),
       ),
     ),
