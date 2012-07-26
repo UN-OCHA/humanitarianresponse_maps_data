@@ -81,6 +81,23 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '962391d1-721f-45f4-7598-6e79d600cc26',
     'vocabulary_machine_name' => 'map_types',
     'weight' => '0',
@@ -154,6 +171,23 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'd277c836-7719-47c4-7503-cd0b0fb0d0f5',
@@ -231,6 +265,23 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '41abcd5f-80f0-5d34-f155-9586c0db715f',
     'vocabulary_machine_name' => 'map_types',
     'weight' => '0',
@@ -304,6 +355,23 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '4a4075f1-a410-7694-dd75-93a06dec5ae2',
@@ -381,6 +449,23 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '6e4b571f-1f83-8024-0d13-a7b07363083e',
     'vocabulary_machine_name' => 'map_types',
     'weight' => '0',
@@ -456,6 +541,23 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '366de738-bd2f-9334-61a7-b53c8ae2f736',
     'vocabulary_machine_name' => 'map_types',
     'weight' => '0',
@@ -529,6 +631,23 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '6c4a6cc4-b9de-ac94-21bf-ce7b500fae53',
