@@ -48,6 +48,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'value' => 'Thématique',
         ),
       ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Temático',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'map-types/thematic',
@@ -96,6 +102,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '962391d1-721f-45f4-7598-6e79d600cc26',
@@ -138,6 +150,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Référence',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Referencia',
         ),
       ),
     ),
@@ -188,6 +206,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'd277c836-7719-47c4-7503-cd0b0fb0d0f5',
@@ -230,6 +254,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Instantané',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Infografía',
         ),
       ),
     ),
@@ -280,6 +310,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '41abcd5f-80f0-5d34-f155-9586c0db715f',
@@ -322,6 +358,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Actualisation Humanitaire',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Actualización Humanitaria',
         ),
       ),
     ),
@@ -372,6 +414,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '4a4075f1-a410-7694-dd75-93a06dec5ae2',
@@ -411,6 +459,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         ),
       ),
       'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => '3W',
+        ),
+      ),
+      'es' => array(
         0 => array(
           'format' => NULL,
           'value' => '3W',
@@ -464,6 +518,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '6e4b571f-1f83-8024-0d13-a7b07363083e',
@@ -506,6 +566,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Tableau de Bord',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Tablero de control',
         ),
       ),
     ),
@@ -556,6 +622,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
           'status' => '1',
           'translate' => '0',
         ),
+        'es' => array(
+          'language' => 'es',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '366de738-bd2f-9334-61a7-b53c8ae2f736',
@@ -598,6 +670,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Graphique de Financement',
+        ),
+      ),
+      'es' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Gráfico de Financiación',
         ),
       ),
     ),
@@ -644,6 +722,12 @@ function humanitarianresponse_maps_data_uuid_default_entities() {
         ),
         'fr' => array(
           'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'es' => array(
+          'language' => 'es',
           'source' => 'en',
           'status' => '1',
           'translate' => '0',
